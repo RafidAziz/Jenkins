@@ -16,4 +16,4 @@ It is an ongoing work in progress.
 
 ## Current Task
 - Automated Builds on Pull Requests
-  - Stopped at webhook error: 'Last delivery was not successful. failed to connect to host.'
+  - Stopped at creating Jenkins job
