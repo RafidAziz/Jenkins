@@ -16,4 +16,4 @@ It is an ongoing work in progress.
 
 ## Current Task
 - Automated Builds on Pull Requests
-  - Stopped at Jenkins CLI to connect to repo via Terminal
+  - Stopped at investigating error log after build now trigger
