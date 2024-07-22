@@ -16,4 +16,4 @@ It is an ongoing work in progress.
 
 ## Current Task
 - Automated Builds on Pull Requests
-  - Stopped at authentication failure after git push attempt
+  - Stopped at merge conflict, read about VI commands
