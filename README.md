@@ -16,4 +16,5 @@ It is an ongoing work in progress.
 
 ## Current Task
 - Automated Builds on Pull Requests
-  - Stopped at merge conflict, read about VI commands
+  - Stopped at error: You have not concluded your merge (MERGE_HEAD exists).
+test
